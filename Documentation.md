@@ -18,7 +18,12 @@ The factors I will be checking to find fluction in levels of air pollution will 
 Aim:- To analyse and inspect air quality fluctuation in India.
 
 
- 
+Initial Hypothesis:
+It is believed that festivals in india have a major contribution to poor air quality in certain cities of India.
+I want to analyse which festivals might and what other factors may affect air quality in those times 
+I will be checking for the following fesitvals.
+1. Diwali 
+
 Conclusion:- 
 
  
