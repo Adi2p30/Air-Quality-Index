@@ -16,3 +16,8 @@ Coming to the conclusion that Pashan might be one of the less affected areas by 
 31st August 2022 (31/08/22)
 I made a table with all the averages of the years and the 5 year average of the composition of pollutents in the air. 
 I also cleaned the data by removing imcomplete data rows
+
+26th September 2022 (26/09/22)
+*Major Updates*
+I worked on analysing data that pertained to which cities have the most extreme amounts of air quality change.
+I will be working/analysing those cities which have the most extreme amounts of air quality change.
