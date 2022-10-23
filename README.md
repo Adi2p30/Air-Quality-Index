@@ -21,3 +21,8 @@ I also cleaned the data by removing imcomplete data rows
 *Major Updates*
 I worked on analysing data that pertained to which cities have the most extreme amounts of air quality change.
 I will be working/analysing those cities which have the most extreme amounts of air quality change.
+
+23rd October 2022 (23/10/22)
+*Im back*
+I was busy with exams, and so I took a break on this project. I will be working on it from here on out. 
+
